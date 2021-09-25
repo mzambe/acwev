@@ -1,6 +1,5 @@
 ---
 title: "An example conference paper"
-subtitle: "puvlished here"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -56,7 +55,7 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image: []
+image: ""
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
