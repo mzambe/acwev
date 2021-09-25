@@ -18,8 +18,9 @@ bio: My research interests include Cryptography and Post - Quantum Cryptography,
 
 # Interests to show in About widget
 interests:
-- Theoretical & Applied Cryptography
-- Post - Quantum Cryptography
+- Theoretical Cryptography
+- Post-Quantum Cryptography
+- Applied Cryptography
 - Computational Complexity Theory
 - Theory of Algorithms
 
