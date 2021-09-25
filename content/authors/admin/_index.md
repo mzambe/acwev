@@ -27,10 +27,10 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: MIT 
+    institution: Massachusetts Institute of Technology 
     year: 2020
-  - course: MEng in Computer Science
-    institution: MIT
+  - course: MSc in Computer Science
+    institution: Massachusetts Institute of Technology 
     year: 2016
   - course: BSc in Applied Mathematics
     institution: National Technical University of Athens
