@@ -68,8 +68,10 @@ email: "katesot (at] berkeley {dot) edu"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoc at UC Berkley working with Raluca Ada Popa and Alessandro Chiesa . My research interests include Cryptography and Post - Quantum Cryptography, Computational Complexity Theory and Algorithms.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I completed my PhD at MIT, where I was advised by Vinod Vaikuntanathan. I received a Master of Sience at MIT under the supervision of Ron Rivest. Before MIT, I was an undergrad student at the Department of Applied Mathematical and Physical Sciences at National Technical University of Athens where I worked work with Antonios Symvonis.
+
+During the Ph.D., I worked as an intern at IDC Herzliya with Alon Rosen, and at MSR, Redmond with Esha Ghosh. I was awarded the Chateaubriand Fellowship, and the Paris C. Kanellakis Fellowship. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
