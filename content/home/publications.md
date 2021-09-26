@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Hello
+title: Publications
 subtitle: 
 
 
@@ -20,6 +20,6 @@ design:
 
 
 Add any content you like
-[a link here](https://mzampet.com)
+[*a link here*](https://mzampet.com)
 
 <h1> any content </h1>
