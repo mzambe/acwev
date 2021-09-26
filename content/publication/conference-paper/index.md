@@ -21,7 +21,8 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 
 # Summary. An optional shortened abstract.
 summary: Symposium on Discrete Algorithms, SODA 2021 
-{{<p>}} with Manolis Zampetakis
+
+with Manolis Zampetakis
 
 tags:
 - Source Themes
