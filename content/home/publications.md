@@ -22,4 +22,4 @@ design:
 Add any content you like
 [*a link here*](https://mzampet.com)
 
-<h1> any content </h1>
+<h2> any content </h2>
