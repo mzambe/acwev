@@ -6,7 +6,7 @@ title: "An example conference super lenghty and annoying title for just a simple
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- [Robert Ford](https://mzampet.com)
+- Robert Ford
 - Many authors
 - Many authorss
 
