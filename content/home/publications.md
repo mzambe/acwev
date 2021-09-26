@@ -18,8 +18,7 @@ design:
   columns: '2'
 ---
 
-
-Add any content you like
-[*a link here*](https://mzampet.com)
-
 <h2> any content </h2>
+
+[Manolis Zampetakis](https://mzampet.com)
+
