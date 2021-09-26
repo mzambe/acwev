@@ -18,6 +18,6 @@ design:
   columns: '2'
 ---
 
-<h2> any content </h2>
+*any content*
 [Manolis Zampetakis](https://mzampet.com)
 
