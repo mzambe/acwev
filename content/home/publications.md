@@ -19,5 +19,5 @@ design:
 ---
 
 <h2> any content </h2>
-[<h3>Manolis Zampetakis</h3>](https://mzampet.com)
+[**Manolis Zampetakis**](https://mzampet.com)
 
