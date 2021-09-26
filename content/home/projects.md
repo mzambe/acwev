@@ -20,5 +20,6 @@ design:
 
 
 Add any content you like
-<a href="https://mzampet.com" style="color:Green"> a link here </a>
+[a link here](https://mzampet.com)
+
 <h1> any content </h1>
