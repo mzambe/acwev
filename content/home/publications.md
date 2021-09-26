@@ -19,6 +19,5 @@ design:
 ---
 
 <p style="font-size:20pt; font-weight:bold">
-    Why did we use these specific parameters during the calculation of the fingerprints?
-</p>
+    A Topological Characterization of Modulo-p Arguments </p>
 <a href="https://mzampet.com">Manolis Zampetakis</a>
