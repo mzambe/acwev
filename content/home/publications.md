@@ -18,7 +18,7 @@ design:
   columns: '2'
 ---
 
-<p style="font-size:24pt; font-style:bold">
+<p style="font-size:20pt; font-weight:bold">
     Why did we use these specific parameters during the calculation of the fingerprints?
 </p>
 <a href="https://mzampet.com">Manolis Zampetakis</a>
