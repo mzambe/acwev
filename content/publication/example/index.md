@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "An example conference super lenghty and annoying title for just a simple paper with an important result"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,11 +7,11 @@ title: "An example conference paper"
 authors:
 - admin
 - Robert Ford
+- Many authors
+- Many authorss
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
