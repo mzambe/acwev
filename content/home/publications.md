@@ -18,6 +18,7 @@ design:
   columns: '2'
 ---
 
-*any content*
+**any content**
+
 [Manolis Zampetakis](https://mzampet.com)
 
