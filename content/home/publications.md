@@ -20,5 +20,5 @@ design:
 
 <a href="https://arxiv.org/abs/2003.11974" style="font-size:20pt; font-weight:bold">
     A Topological Characterization of Modulo-p Arguments </a>
-with <a href="https://mzampet.com">Aris Filos-Ratsikas</a>, <a href="https://mzampet.com">Alexandros Hollender</a>, <a href="https://mzampet.com">Manolis Zampetakis</a>
-<p style="font-style:italic">Symposium on Discrete Algorithms (SODA) 2021<\p>
+<p> with <a href="https://mzampet.com">Aris Filos-Ratsikas</a>, <a href="https://mzampet.com">Alexandros Hollender</a>, <a href="https://mzampet.com">Manolis Zampetakis</a>
+<p style="font-style:italic">Symposium on Discrete Algorithms (SODA) 2021
