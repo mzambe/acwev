@@ -18,7 +18,6 @@ design:
   columns: '2'
 ---
 
-**any content**
-
+**Title** \n
 [Manolis Zampetakis](https://mzampet.com)
 
