@@ -17,10 +17,8 @@ design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
 ---
--|
-**Title** "\n"
 
-<p style="font-family: times, serif; font-size:11pt; font-style:italic">
+<p style="font-size:24pt; font-style:bold">
     Why did we use these specific parameters during the calculation of the fingerprints?
 </p>
 <a href="https://mzampet.com">Manolis Zampetakis</a>
