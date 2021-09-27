@@ -25,7 +25,7 @@ experience:
   - title: Research Intern
     company: Microsoft Research
     company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/'
-    company_logo: microsoft
+    company_logo: org-gc
     location: Redmond, WA
     date_start: '2018-06'
     date_end: '2018-08'
@@ -34,7 +34,7 @@ experience:
   - title: Research Visitor
     company: Microsoft Research
     company_url: 'https://www.idc.ac.il/en/pages/home.aspx'
-    company_logo: idc
+    company_logo: org-gc
     location: Israel
     date_start: '2017-06'
     date_end: '2017-08'
