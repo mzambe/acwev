@@ -17,16 +17,6 @@ design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
 ---
-
-<a href="https://arxiv.org/abs/2003.11974" style="font-size:20pt; font-weight:bold">
-    A Topological Characterization of Modulo-p Arguments </a>
-<p> with 
-    <a href="http://www.arisfilosratsikas.com/" style="color:black">Aris Filos-Ratsikas</a>, 
-    <a href="https://www.cs.ox.ac.uk/people/alexandros.hollender/" style="color:black">Alexandros Hollender</a>,
-    <a href="https://mzampet.com" style="color:black">Manolis Zampetakis</a>
-<br> <a href="https://www.siam.org/conferences/cm/conference/soda21" style="color:#a57868">
-    <b>SODA 2021</b> - 32nd ACM-SIAM Symposium on Discrete Algorithms</a>
-    
     
 <a href="https://eprint.iacr.org/2021/333" style="font-size:20pt; font-weight:bold">
     Sumcheck Arguments and their applications </a>
@@ -36,3 +26,13 @@ design:
     <a href="https://mzampet.com" style="color:black">Manolis Zampetakis</a>
 <br> <a href="https://www.siam.org/conferences/cm/conference/soda21" style="color:#a57868">
     <b>Crypto 2021</b> - 32nd ACM-SIAM Symposium on Discrete Algorithms</a>
+    
+<p> <a href="https://arxiv.org/abs/2003.11974" style="font-size:20pt; font-weight:bold">
+    A Topological Characterization of Modulo-p Arguments </a>
+<p> with 
+    <a href="http://www.arisfilosratsikas.com/" style="color:black">Aris Filos-Ratsikas</a>, 
+    <a href="https://www.cs.ox.ac.uk/people/alexandros.hollender/" style="color:black">Alexandros Hollender</a>,
+    <a href="https://mzampet.com" style="color:black">Manolis Zampetakis</a>
+<br> <a href="https://www.siam.org/conferences/cm/conference/soda21" style="color:#a57868">
+    <b>SODA 2021</b> - 32nd ACM-SIAM Symposium on Discrete Algorithms</a>
+    
