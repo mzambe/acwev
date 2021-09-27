@@ -18,4 +18,7 @@ design:
   columns: '2'
 ---
  
+ 
+ * **Winner of 7th iDASH Competition - Track 3**
+ * **Chateaubriand Fellowship**
  * **Paris Kanellakis Award**
