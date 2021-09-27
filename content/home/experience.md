@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 23
 
-title: Experience
+title: Reesearch Experience
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: PRPTjkjiJOA
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Microsoft Research at Redmond
+    company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/'
+    company_logo: microsoft
+    location: Redmond, WA
+    date_start: '2018-06'
+    date_end: '2018-08'
+    description: Research Intern
+    
+  - title: IDC Herzliya 
+    company_url: 'https://www.idc.ac.il/en/pages/home.aspx'
+    company_logo: idc
+    location: Israel
+    date_start: '2017-06'
+    date_end: '2017-08'
+    description: Research Intern
 
 design:
   columns: '2'
