@@ -18,8 +18,8 @@ design:
   columns: '2'
 ---
  
- * **Top three papers accepted at PKC 2020**
- * ** PKC 2019**
+ * **One of top three papers at PKC 2020**
+ * **One of top three papers at PKC 2019**
  * **Winner of 7th iDASH Competition - Track 3**
  * **Chateaubriand Fellowship**
  * **Paris Kanellakis Award**
