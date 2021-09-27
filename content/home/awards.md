@@ -19,7 +19,8 @@ design:
 ---
  
  * **Top three papers accepted at PKC 2020**
- * **Top three papers accepted at PKC 2019**
+ * ** PKC 2019**
  * **Winner of 7th iDASH Competition - Track 3**
  * **Chateaubriand Fellowship**
  * **Paris Kanellakis Award**
+ * **Outstanding Performance in Undergraduate Studies - NTUA**
