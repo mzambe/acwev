@@ -18,4 +18,4 @@ design:
   columns: '2'
 ---
  
- * Paris Kanellakis
+ * **Paris Kanellakis Award**
