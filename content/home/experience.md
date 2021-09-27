@@ -25,21 +25,21 @@ experience:
   - title: Research Intern
     company: Microsoft Research
     company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/'
-    company_logo: org-gc
+    company_logo: microsoft
     location: Redmond, WA
     date_start: '2018-06-01'
     date_end: '2018-08-31'
-    description: aaa
+    description: ''
     
   - title: Research Visitor
-    company: Microsoft Research
+    company: IDC Herzliya
     company_url: 'https://www.idc.ac.il/en/pages/home.aspx'
-    company_logo: org-gc
+    company_logo: idc
     location: Israel
     date_start: '2017-06-01'
     date_end: '2017-08-31'
-    description: aaa
-
+    description: ''
+    
 design:
   columns: '2'
 ---
