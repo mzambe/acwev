@@ -21,7 +21,7 @@ design:
 <p> <a href="https://eprint.iacr.org/2021/333" style="font-size:20pt; font-weight:bold">
     Sumcheck Arguments and their applications </a>
 <br> with 
-    <a href="http://www.arisfilosratsikas.com/" style="color:black">Jonathan Bootle</a>, 
+    <a href="https://jbootle.github.io/" style="color:black">Jonathan Bootle</a>, 
     <a href="https://people.eecs.berkeley.edu/~alexch/" style="color:black">Alessandro Chiesa</a>
 <br> <a href="https://crypto.iacr.org/2021/" style="color:#a57868">
     <b>CRYPTO 2021</b> - 41th Annual International Cryptology Conference</a>
@@ -47,7 +47,7 @@ design:
 <p> <a href="https://arxiv.org/abs/1912.0446" style="font-size:20pt; font-weight:bold">
     On the Complexity of Modulo p Arguments </a>
 <br> with 
-    <a href="https://theory.stanford.edu/~mika/" style="color:black">Mika Göös</a>, 
+    <a href="https://theory.epfl.ch/mika/" style="color:black">Mika Göös</a>, 
     <a href="https://pritishkamath.github.io/" style="color:black">Pritish Kamath</a>,
     <a href="https://mzampet.com" style="color:black">Manolis Zampetakis</a>
 <br> <a href="https://computationalcomplexity.org/Archive/2020/program.php" style="color:#a57868">
