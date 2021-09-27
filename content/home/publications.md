@@ -18,9 +18,9 @@ design:
   columns: '2'
 ---
     
-<a href="https://eprint.iacr.org/2021/333" style="font-size:20pt; font-weight:bold">
+<p> <a href="https://eprint.iacr.org/2021/333" style="font-size:20pt; font-weight:bold">
     Sumcheck Arguments and their applications </a>
-<p> with 
+<br> with 
     <a href="http://www.arisfilosratsikas.com/" style="color:black">Aris Filos-Ratsikas</a>, 
     <a href="https://www.cs.ox.ac.uk/people/alexandros.hollender/" style="color:black">Alexandros Hollender</a>,
     <a href="https://mzampet.com" style="color:black">Manolis Zampetakis</a>
@@ -29,7 +29,7 @@ design:
     
 <p> <a href="https://arxiv.org/abs/2003.11974" style="font-size:20pt; font-weight:bold">
     A Topological Characterization of Modulo-p Arguments </a>
-<p> with 
+<br> with 
     <a href="http://www.arisfilosratsikas.com/" style="color:black">Aris Filos-Ratsikas</a>, 
     <a href="https://www.cs.ox.ac.uk/people/alexandros.hollender/" style="color:black">Alexandros Hollender</a>,
     <a href="https://mzampet.com" style="color:black">Manolis Zampetakis</a>
