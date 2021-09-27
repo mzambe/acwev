@@ -24,5 +24,5 @@ design:
     <a href="https://mzampet.com" style="color:black">Aris Filos-Ratsikas</a>, 
     <a href="https://mzampet.com"style="color:black">Alexandros Hollender</a>,
     <a href="https://mzampet.com" style="color:black">Manolis Zampetakis</a>
-<br> <a href="https://www.siam.org/conferences/cm/conference/soda21" style="color:grey">
+<br> <a href="https://www.siam.org/conferences/cm/conference/soda21" style="color:#a57868">
     SODA 2021 - 32nd ACM-SIAM Symposium on Discrete Algorithms</a>
