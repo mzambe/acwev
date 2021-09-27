@@ -27,8 +27,8 @@ experience:
     company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/'
     company_logo: org-gc
     location: Redmond, WA
-    date_start: '2018-06'
-    date_end: '2018-08'
+    date_start: '2018-06-01'
+    date_end: '2018-08-31'
     description: aaa
     
   - title: Research Visitor
@@ -36,8 +36,8 @@ experience:
     company_url: 'https://www.idc.ac.il/en/pages/home.aspx'
     company_logo: org-gc
     location: Israel
-    date_start: '2017-06'
-    date_end: '2017-08'
+    date_start: '2017-06-01'
+    date_end: '2017-08-31'
     description: aaa
 
 design:
