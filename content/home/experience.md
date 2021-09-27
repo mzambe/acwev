@@ -29,7 +29,7 @@ experience:
     location: Redmond, WA
     date_start: '2018-06'
     date_end: '2018-08'
-    description: ''
+    description: aaa
     
   - title: Research Visitor
     company: Microsoft Research
@@ -38,7 +38,7 @@ experience:
     location: Israel
     date_start: '2017-06'
     date_end: '2017-08'
-    description: ''
+    description: aaa
 
 design:
   columns: '2'
