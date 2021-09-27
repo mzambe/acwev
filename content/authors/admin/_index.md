@@ -66,6 +66,6 @@ highlight_name: true
 
 I am a postdoc at **UC Berkeley** working with **Raluca Ada Popa** and **Alessandro Chiesa**. My research interests include Cryptography and Post-Quantum Cryptography, Computational Complexity Theory and Algorithms.
 
-I completed my PhD at **MIT**, where I was advised by **Vinod Vaikuntanathan**. I received a Master of Sience at MIT under the supervision of **Ron Rivest**. Before MIT, I was an undergrad student at the Department of Applied Mathematical and Physical Sciences at **National Technical University of Athens** where I worked work with **Antonios Symvonis**.
+I completed my Ph.D. at **MIT**, where I was advised by **Vinod Vaikuntanathan**. I received a Master of Sience at MIT under the supervision of **Ron Rivest**. Before MIT, I was an undergrad student at the Department of Applied Mathematical and Physical Sciences at **National Technical University of Athens** where I worked work with **Antonios Symvonis**.
 
 During my Ph.D., I worked as an intern at IDC Herzliya with Alon Rosen, and at MSR, Redmond with Esha Ghosh. I was awarded the Chateaubriand Fellowship, and the Paris C. Kanellakis Fellowship. 
