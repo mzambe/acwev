@@ -47,13 +47,7 @@ social:
   link: '/#contact'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://dblp.org/pid/129/1428.html
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -66,6 +60,7 @@ social:
 email: "katesot (at] berkeley {dot) edu"
 
 # Highlight the author in author lists? (true/false)
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 highlight_name: true
 ---
 
@@ -74,5 +69,3 @@ I am a postdoc at UC Berkley working with Raluca Ada Popa and Alessandro Chiesa 
 I completed my PhD at MIT, where I was advised by Vinod Vaikuntanathan. I received a Master of Sience at MIT under the supervision of Ron Rivest. Before MIT, I was an undergrad student at the Department of Applied Mathematical and Physical Sciences at National Technical University of Athens where I worked work with Antonios Symvonis.
 
 During the Ph.D., I worked as an intern at IDC Herzliya with Alon Rosen, and at MSR, Redmond with Esha Ghosh. I was awarded the Chateaubriand Fellowship, and the Paris C. Kanellakis Fellowship. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
