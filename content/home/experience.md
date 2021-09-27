@@ -23,6 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Microsoft Research at Redmond
+    company: ''
     company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/'
     company_logo: microsoft
     location: Redmond, WA
@@ -31,6 +32,7 @@ experience:
     description: Research Intern
     
   - title: IDC Herzliya 
+    company: ''
     company_url: 'https://www.idc.ac.il/en/pages/home.aspx'
     company_logo: idc
     location: Israel
