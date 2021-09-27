@@ -69,7 +69,7 @@ email: "katesot (at] berkeley {dot) edu"
 highlight_name: true
 ---
 
-IIIIII am a postdoc at UC Berkley working with Raluca Ada Popa and Alessandro Chiesa . My research interests include Cryptography and Post - Quantum Cryptography, Computational Complexity Theory and Algorithms.
+I am a postdoc at UC Berkley working with Raluca Ada Popa and Alessandro Chiesa . My research interests include Cryptography and Post - Quantum Cryptography, Computational Complexity Theory and Algorithms.
 
 I completed my PhD at MIT, where I was advised by Vinod Vaikuntanathan. I received a Master of Sience at MIT under the supervision of Ron Rivest. Before MIT, I was an undergrad student at the Department of Applied Mathematical and Physical Sciences at National Technical University of Athens where I worked work with Antonios Symvonis.
 
