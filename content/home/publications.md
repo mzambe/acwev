@@ -62,7 +62,7 @@ design:
 <br> <a href="https://pkc.iacr.org/2020/" style="color:#a57868">
     <b>PKC 2020</b> - 23th Conference on Practice and Theory of Public Key Cryptography</a>
 <br> <strong>Invited to 
-    <a href = " https://www.springer.com/journal/145" style="color:#794854" target="_blank"> Journal of Cryptology</a> </strong> 
+    <a href = " https://www.springer.com/journal/145" style="color:#883b39" target="_blank"> Journal of Cryptology</a> </strong> 
     
 <p> <a href="https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-020-0718-x" style="font-size:20pt; font-weight:bold">
     Privately computing set-maximal matches in genomic data </a>
@@ -72,7 +72,7 @@ design:
 <br> <a href="https://bmcmedgenomics.biomedcentral.com/" style="color:#a57868">
     <b> BMC Medical Genomics, 2020 </b> - Part of Springer Nature</a>   
 <br> <strong>Invited from 
-    <a href = " http://www.humangenomeprivacy.org/2018/index.html" style="color:#794854" target="_blank"> 7th iDASH Privacy and Security Workshop</a> </strong> 
+    <a href = " http://www.humangenomeprivacy.org/2018/index.html" style="color:#883b39" target="_blank"> 7th iDASH Privacy and Security Workshop</a> </strong> 
     
 <p> <a href="https://eprint.iacr.org/2018/240" style="font-size:20pt; font-weight:bold">
     Towards Non-Interactive Zero-Knowledge for NP from LWE </a>
@@ -82,7 +82,7 @@ design:
 <br> <a href="https://pkc.iacr.org/2019/" style="color:#a57868">
     <b>PKC 2019</b> - 22th Conference on Practice and Theory of Public Key Cryptography</a>
 <br> <strong>Invited to 
-    <a href = "https://link.springer.com/article/10.1007/s00145-020-09365-w" style="color:#794854" target="_blank"> Journal of Cryptology</a> </strong> 
+    <a href = "https://link.springer.com/article/10.1007/s00145-020-09365-w" style="color:#883b39" target="_blank"> Journal of Cryptology</a> </strong> 
   
 <p> <a href="https://arxiv.org/abs/1808.06407" style="font-size:20pt; font-weight:bold">
     PPP-Completeness with Connections to Cryptography </a>
