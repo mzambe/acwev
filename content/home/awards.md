@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 24
 
-title: Hello
+title: Awards
 subtitle: 
 
 
@@ -17,9 +17,5 @@ design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
 ---
-
-
-Add any content you like
-[a link here](https://mzampet.com)
-
-<h1> any content </h1>
+ 
+ * Paris Kanellakis
