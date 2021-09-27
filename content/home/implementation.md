@@ -18,41 +18,6 @@ design:
   columns: '2'
 ---
 
-	   <div class="publication">
-      <div class="row">
-        <div class="ten columns publication-info">
-          <div class="publication-title">
-              Secure Collaborative Training of Machine Learning Model  </div>
-          <div class="publication-authors">
-              <a href="https://www.khoury.northeastern.edu/people/schuyler-rosefield/" target="_blank">Schuyler Rosefield</a>,
-	      <a href="https://www.ll.mit.edu/biographies/emily-h-shen" target="_blank">Emily Shen</a>,
-	      <a href="https://dblp.uni-trier.de/pers/hd/l/Luther:Noah" target="_blank">Noah Luther</a> and
-	      <a href="http://people.csail.mit.edu/vinodv/" target="_blank">Vinod Vaikuntanathan</a>
-            </div>
-            <div class="publication-conference" style="color: DarkRed">
-                <strong>invited at <a href = " http://www.humangenomeprivacy.org/2019/index.html" style="color: DarkRed" target="_blank"> iDASH Privacy and Security Workshop</a>, 2019 </strong> </div>
-            </div>
-        </div>
-      </div>
-    </div>
-
-          <div class="publication">
-      <div class="row">
-        <div class="ten columns publication-info">
-          <div class="publication-title">
-              Privately computing set-maximal matches in genomic data </div>
-          <div class="publication-authors">
-              with
-              <a href="https://www.microsoft.com/en-us/research/people/haoche/" target="_blank">Hao Chen</a>
-              and <a href="https://cs.brown.edu/people/eg29/" target="_blank">Esha Ghosh</a>
-            </div>
-            <div class="publication-conference" style="color: DarkRed">
-                <strong>winner of <a href = " http://www.humangenomeprivacy.org/2018/index.html" style="color: DarkRed" target="_blank"> iDASH Privacy and Security Workshop</a>, 2018 </strong> </div>
-            </div>
-        </div>
-      </div>
-    </div>
-
 <p> <a href="https://sotiraki.com" style="font-size:20pt; font-weight:bold">
     Secure Collaborative Training of Machine Learning Model </a>
 <br> with 
