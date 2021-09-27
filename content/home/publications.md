@@ -60,7 +60,7 @@ design:
     <a href="https://pritishkamath.github.io/" style="color:black">Pritish Kamath</a>,
     <a href="https://www.alonrosen.net/" style="color:black">Alon Rosen</a>
 <br> <a href="https://pkc.iacr.org/2020/" style="color:#a57868">
-    <b>PKC 2020</b> - 23th International Conference on Practice and Theory of Public Key Cryptography</a>
+    <b>PKC 2020</b> - 23th Conference on Practice and Theory of Public Key Cryptography</a>
 <br> <strong>invited to 
     <a href = " https://www.springer.com/journal/145" style="color: DarkRed" target="_blank"> Journal of Cryptology</a> </strong> 
     
@@ -80,7 +80,7 @@ design:
     <a href="http://www.cs.technion.ac.il/~rothblum/" style="color:black">Ron Rothblum</a>, 
     <a href="http://www.mit.edu/~asealfon/" style="color:black">Adam Sealfon</a>
 <br> <a href="https://pkc.iacr.org/2019/" style="color:#a57868">
-    <b>PKC 2019</b> - 22th International Conference on Practice and Theory of Public Key Cryptography</a>
+    <b>PKC 2019</b> - 22th Conference on Practice and Theory of Public Key Cryptography</a>
 <br> <strong>invited to 
     <a href = "https://link.springer.com/article/10.1007/s00145-020-09365-w" style="color: DarkRed" target="_blank"> Journal of Cryptology</a> </strong> 
   
