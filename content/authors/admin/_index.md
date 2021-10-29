@@ -11,8 +11,8 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of California Berkeley
-  url: https://www.berkeley.edu/
-  email: katesot@berkeley.edu
+  url: https://www.berkeley.edu/ <br>
+        katesot@berkeley.edu
 # Short bio (displayed in user profile at end of posts)
 bio:
 
@@ -48,7 +48,6 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://dblp.org/pid/129/1428.html
-contact:
 
 
 # Link to a PDF of your resume/CV.
