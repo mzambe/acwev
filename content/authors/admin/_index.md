@@ -10,9 +10,9 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of California Berkeley
+- name: katesot@berkeley.edu University of California Berkeley
   url: https://www.berkeley.edu/ <br>
-        katesot@berkeley.edu
+
 # Short bio (displayed in user profile at end of posts)
 bio:
 
