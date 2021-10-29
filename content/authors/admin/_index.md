@@ -42,9 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-<!-- - icon: envelope
-  icon_pack: fas
-  link: 'maito:katesot@berkeley.edu' -->
+# - icon: envelope
+#  icon_pack: fas
+#  link: 'maito:katesot@berkeley.edu'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://dblp.org/pid/129/1428.html
@@ -68,4 +68,4 @@ I am a postdoc at **UC Berkeley** working with <a href="https://people.eecs.berk
 
 I completed my Ph.D. at **MIT**, where I was advised by <a href="https://people.csail.mit.edu/vinodv/"> **Vinod Vaikuntanathan** </a>. I received a Master of Science at MIT under the supervision of <a href="https://people.csail.mit.edu/rivest/">**Ronald L. Rivest**</a>. Before MIT, I was an undergraduate student at the Department of Applied Mathematical and Physical Sciences at **National Technical University of Athens** where I worked work with <a href="http://www.math.ntua.gr/~symvonis/" >**Antonios Symvonis**</a>.
 
-I was an intern at IDC Herzliya with <a href="https://www.alonrosen.net" >**Alon Rosen** </a>, and at Microsoft Research, Redmond with <a href="https://www.microsoft.com/en-us/research/people/esghosh/" >**Esha Ghosh** </a>. I was awarded the <a href="https://www.chateaubriand-fellowship.org/2017-82.html">Chateaubriand Fellowship</a>, and the <a href= "https://en.wikipedia.org/wiki/Paris_Kanellakis">Paris C. Kanellakis Fellowship (EECS, MIT)</a>.
+I was an intern at IDC Herzliya with <a href="https://www.alonrosen.net" >**Alon Rosen** </a>, and at Microsoft Research, Redmond with <a href="https://www.microsoft.com/en-us/research/people/esghosh/" >**Esha Ghosh**</a>. I was awarded the <a href="https://www.chateaubriand-fellowship.org/2017-82.html">Chateaubriand Fellowship</a>, and the <a href= "https://en.wikipedia.org/wiki/Paris_Kanellakis">Paris C. Kanellakis Fellowship (EECS, MIT)</a>.
