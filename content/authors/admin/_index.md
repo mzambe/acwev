@@ -12,7 +12,7 @@ role: Postdoctoral Researcher
 organizations:
 - name: University of California Berkeley
   url: https://www.berkeley.edu/
-
+  email: katesot@berkeley.edu
 # Short bio (displayed in user profile at end of posts)
 bio:
 
