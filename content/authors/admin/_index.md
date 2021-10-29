@@ -20,9 +20,8 @@ bio:
 interests:
 - Theoretical Cryptography
 - Post-Quantum Cryptography
-- Applied Cryptography
-- Computational Complexity Theory
-- Theory of Algorithms
+- Complexity Theory
+- Secure Computation
 
 # Education to show in About widget
 education:
