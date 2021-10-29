@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 23
 
-title: Reesearch Experience
+title: Research Experience
 subtitle:
 
 # Date format for experience
@@ -30,7 +30,7 @@ experience:
     date_start: '2018-06-01'
     date_end: '2018-08-31'
     description: ''
-    
+
   - title: Research Visitor
     company: IDC Herzliya
     company_url: 'https://www.idc.ac.il/en/pages/home.aspx'
@@ -39,7 +39,7 @@ experience:
     date_start: '2017-06-01'
     date_end: '2017-08-31'
     description: ''
-    
+
 design:
   columns: '2'
 ---

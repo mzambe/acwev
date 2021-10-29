@@ -14,7 +14,7 @@ organizations:
   url: https://www.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Cryptography and Post - Quantum Cryptography, Computational Complexity Theory and Algorithms. 
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -28,10 +28,10 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: Massachusetts Institute of Technology 
+    institution: Massachusetts Institute of Technology
     year: 2020
   - course: MSc in Computer Science
-    institution: Massachusetts Institute of Technology 
+    institution: Massachusetts Institute of Technology
     year: 2016
   - course: BSc in Applied Mathematics
     institution: National Technical University of Athens
@@ -50,7 +50,7 @@ social:
   link: https://dblp.org/pid/129/1428.html
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -68,4 +68,4 @@ I am a postdoc at **UC Berkeley** working with **Raluca Ada Popa** and **Alessan
 
 I completed my Ph.D. at **MIT**, where I was advised by **Vinod Vaikuntanathan**. I received a Master of Sience at MIT under the supervision of **Ron Rivest**. Before MIT, I was an undergrad student at the Department of Applied Mathematical and Physical Sciences at **National Technical University of Athens** where I worked work with **Antonios Symvonis**.
 
-During my Ph.D., I worked as an intern at IDC Herzliya with Alon Rosen, and at MSR, Redmond with Esha Ghosh. I was awarded the Chateaubriand Fellowship, and the Paris C. Kanellakis Fellowship. 
+During my Ph.D., I worked as an intern at IDC Herzliya with Alon Rosen, and at MSR, Redmond with Esha Ghosh. I was awarded the Chateaubriand Fellowship, and the Paris C. Kanellakis Fellowship.
