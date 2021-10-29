@@ -14,7 +14,7 @@ organizations:
   url: https://www.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # Interests to show in About widget
 interests:
@@ -64,7 +64,7 @@ email: "katesot (at] berkeley {dot) edu"
 highlight_name: true
 ---
 
-I am a postdoc at **UC Berkeley** working with **Raluca Ada Popa** and **Alessandro Chiesa**. My research interests include Cryptography and Post-Quantum Cryptography, Computational Complexity Theory and Algorithms.
+I am a postdoc at **UC Berkeley** working with <a href "https://people.eecs.berkeley.edu/~raluca/?_ga=2.197307247.1385266317.1635523834-1227136600.1633315763"> **Raluca Ada Popa** <\href> and **Alessandro Chiesa**. My research interests include Cryptography and Post-Quantum Cryptography, Computational Complexity Theory and Algorithms.
 
 I completed my Ph.D. at **MIT**, where I was advised by **Vinod Vaikuntanathan**. I received a Master of Sience at MIT under the supervision of **Ron Rivest**. Before MIT, I was an undergrad student at the Department of Applied Mathematical and Physical Sciences at **National Technical University of Athens** where I worked work with **Antonios Symvonis**.
 
