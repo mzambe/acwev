@@ -6,7 +6,7 @@ title: Katerina Sotiraki
 superuser: true
 
 # Role/position/tagline
-role: katesot (at] berkeley {dot) edu
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
