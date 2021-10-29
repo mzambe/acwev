@@ -44,7 +44,7 @@ design:
 <br> <a href="http://ec20.sigecom.org/" style="color:#a57868">
     <b>EC 2020</b> - 21st ACM Conference on Economics and Computation</a>
     
-<p> <a href="https://arxiv.org/abs/1912.0446" style="font-size:20pt; font-weight:bold">
+<p> <a href="https://arxiv.org/abs/1912.04467" style="font-size:20pt; font-weight:bold">
     On the Complexity of Modulo p Arguments </a>
 <br> with 
     <a href="https://theory.epfl.ch/mika/" style="color:black">Mika Göös</a>, 
