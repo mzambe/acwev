@@ -61,7 +61,7 @@ design:
     <a href="https://www.alonrosen.net/" style="color:black">Alon Rosen</a>
 <br> <a href="https://pkc.iacr.org/2020/" style="color:#a57868">
     <b>PKC 2020</b> - 23th Conference on Practice and Theory of Public Key Cryptography</a>
-<br> <strong>Invited to
+<br> <strong> one of three papers invited to
     <a href = " https://link.springer.com/article/10.1007/s00145-021-09406-y" style="color:#883b39" target="_blank"> Journal of Cryptology</a> </strong>
 
 <p> <a href="https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-020-0718-x" style="font-size:20pt; font-weight:bold">
@@ -81,7 +81,7 @@ design:
     <a href="http://www.mit.edu/~asealfon/" style="color:black">Adam Sealfon</a>
 <br> <a href="https://pkc.iacr.org/2019/" style="color:#a57868">
     <b>PKC 2019</b> - 22th Conference on Practice and Theory of Public Key Cryptography</a>
-<br> <strong>Invited to
+<br> <strong>one of three papers invited to
     <a href = "https://link.springer.com/article/10.1007/s00145-020-09365-w" style="color:#883b39" target="_blank"> Journal of Cryptology</a> </strong>
 
 <p> <a href="https://arxiv.org/abs/1808.06407" style="font-size:20pt; font-weight:bold">
