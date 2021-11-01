@@ -18,8 +18,8 @@ design:
   columns: '2'
 ---
 
- * **2020: One of three papers invited to Journal of Cryptology from PKC 2020**
- * **2019: One of three papers invited to Journal of Cryptology from PKC 2019**
+ * **2020: One of the best papers invited to Journal of Cryptology from PKC 2020**
+ * **2019: One of the best papers invited to Journal of Cryptology from PKC 2019**
  * **2018: Winner of 7th iDASH Competition - Track 3**
  * **2018: Chateaubriand Fellowship**
  * **2013: Paris C. Kanellakis Fellowship (EECS, MIT)**
