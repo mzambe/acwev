@@ -18,6 +18,15 @@ design:
   columns: '2'
 ---
 
+<p> <a href="/holmes.pdf" style="font-size:20pt; font-weight:bold">
+    HOLMES: A Platform for Detecting Malicious Inputs in    Secure Collaborative Computation </a>
+<br> with
+    <a href="https://www.chenweikeng.com" style="color:black">Weikeng Chen</a>,
+    <a href="https://www.linkedin.com/in/iachang" style="color:black">Ian Chang</a>
+    <a href="https://personal.utdallas.edu/~muratk/" style="color:black">Murat Kantarcioglu</a>
+    <a href="https://people.eecs.berkeley.edu/~raluca/" style="color:black">Raluca Ada Popa</a>
+<br> <b>Preprint</b>
+
 <p> <a href="https://eprint.iacr.org/2021/333" style="font-size:20pt; font-weight:bold">
     Sumcheck Arguments and their Applications </a>
 <br> with
